@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwarajMundruppadyRao
 - 👀 I’m interested in Robotics, AI, Software Development and Computer Vision
 - 🌱 I’m currently learning : Software Development, AI and Machine Learning and Human Robot Interaction
-- 📫 How to reach me : Email : swarajmr@umd.edu , Phone: 240-351-4782
+- 📫 How to reach me : Email : swarajmr@umd.edu , Phone: +1 (240)-351-4782
 - 😄 Pronouns: He/Him
 
 <!---
