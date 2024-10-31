@@ -28,11 +28,12 @@ Phone: +1 (240)-351-4782
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-99A3A4?style=for-the-badge)
 
-![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
----
-
 For any collaborations or projects in Robotics, AI, or related areas, feel free to reach out!
+
+---
+![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
