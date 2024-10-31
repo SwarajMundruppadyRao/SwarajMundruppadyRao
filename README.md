@@ -6,6 +6,8 @@ I’m passionate about Robotics, AI, Software Development, and Computer Vision, 
 Email: [swarajmr@umd.edu](mailto:swarajmr@umd.edu)  
 Phone: +1 (240)-351-4782
 
+For any collaborations or projects in Robotics, AI, or related areas, feel free to reach out!
+
 ### 🛠️ Skills
 
 #### Languages
@@ -33,7 +35,22 @@ Phone: +1 (240)-351-4782
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-For any collaborations or projects in Robotics, AI, or related areas, feel free to reach out!
+
 
 ---
 ![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+## ⚡ Stats ⚡
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMundruppadyRao&show_icons=true&theme=react" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMundruppadyRao&theme=react" alt="GitHub Streak" height="160"/>
+</p>
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajMundruppadyRao&layout=compact&theme=react" alt="Most Used Languages" height="160"/>
+</p>
+
