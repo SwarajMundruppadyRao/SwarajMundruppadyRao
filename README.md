@@ -6,10 +6,29 @@ I’m passionate about Robotics, AI, Software Development, and Computer Vision, 
 Email: [swarajmr@umd.edu](mailto:swarajmr@umd.edu)  
 Phone: +1 (240)-351-4782
 
-![Languages](https://img.shields.io/badge/Code-Python%20|%20C++%20|%20MATLAB%20|%20SQL%20|%20Java-informational?style=flat-square)  
-![Libraries](https://img.shields.io/badge/Libraries-OpenCV%20|%20ROS2%20|%20Simulink%20|%20Machine%20Learning%20|%20Deep%20Learning-informational?style=flat-square)  
-![Tools](https://img.shields.io/badge/Tools-Git%20|%20Arduino%20|%20bash%20|%20CUDA%20|%20Fusion%20360%20|%20SolidWorks%20|%20NX%20|%20CATIA%20|%20AutoCAD-informational?style=flat-square)  
-![Platforms](https://img.shields.io/badge/Platforms-Linux%20(Ubuntu)%20|%20Gazebo%20|%20Docker%20|%20Anaconda-informational?style=flat-square)
+### 🛠️ Skills
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### Libraries & Tools
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### Development Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-99A3A4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
