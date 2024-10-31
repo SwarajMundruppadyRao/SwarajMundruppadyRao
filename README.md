@@ -27,6 +27,9 @@ Phone: +1 (240)-351-4782
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-99A3A4?style=for-the-badge)
+
+![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
