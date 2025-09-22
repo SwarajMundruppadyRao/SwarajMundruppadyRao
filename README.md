@@ -7,7 +7,7 @@
 **Ex-UMD Teaching & Research Assistant | Ex-Brahm Works (Product Development Engineer) | Ex-Tata Technologies (Software Engineer)**  
 
 I’m passionate about building intelligent robotic and AI systems that bridge the gap between research and deployment.  
-Currently, I’m diving deeper into **software development, machine learning pipelines, and human-robot interaction**.  
+Currently, I am diving deep into **Machine Learning, Perception, and Motion Planning for Robots**, with a focus on taking ideas from simulation to deployment in real-world environments.  
 
 📫 **Contact Me:**  
 📧 Email: [swarajmr@umd.edu](mailto:swarajmr@umd.edu) | [swarajmrao@gmail.com](mailto:swarajmrao@gmail.com)  
@@ -15,6 +15,7 @@ Currently, I’m diving deeper into **software development, machine learning pip
 🌐 Portfolio: [www.swarajmrao.com](http://www.swarajmrao.com)  
 💼 LinkedIn: [linkedin.com/in/swarajmrao](https://www.linkedin.com/in/swarajmrao)  
 🖥️ GitHub: [github.com/SwarajMundruppadyRao](https://github.com/SwarajMundruppadyRao)  
+
 ---
 
 ## 🛠️ Technical Skills  
