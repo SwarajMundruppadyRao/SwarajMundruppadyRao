@@ -4,7 +4,7 @@
 🤖 Robotics & Autonomy | 🖥️ Computer Vision & AI/ML | ☁️ Cloud & MLOps | 🚀 Embedded Systems  
 
 **Current: Machine Learning Engineer @ Squark AI**  
-**Ex-UMD Teaching & Research Assistant | Ex-Brahm Works (Product Development Engineer) | Ex-Tata Technologies (Software Engineer)**  
+**Ex-UMD Teaching & Research Assistant | Ex-Brahm Works (Design Engineer) | Ex-Tata Technologies (GET Software Engineer)**  
 
 I’m passionate about building intelligent robotic and AI systems that bridge the gap between research and deployment.  
 Currently, I am diving deep into **Machine Learning, Perception, and Motion Planning for Robots**, with a focus on taking ideas from simulation to deployment in real-world environments.  
